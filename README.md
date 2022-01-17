@@ -1,4 +1,4 @@
-### Hello there, I'm Zian - aka Farhsas 
+### Hello there, I'm Zian - aka Farhsas 👋
 
 ## I'm a student in computer science at UCLouvain!
 - 🐍 I'm currently learning basic programming using Python 
