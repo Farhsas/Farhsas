@@ -5,7 +5,7 @@
 - 🎮 I'm currently trying to learn how to make a video game
 - 💻 I'm also trying to do small Raspberry Pi project 
 - 👯 I'm looking to collaborate with other programmers
-- 🥅 2022 Goals: Finish my video game and do more Rapsberry Pi projec
+- 🥅 2022 Goals: Finish my video game and do more Rapsberry Pi project
 - ⚡ Fun fact: I love to play guitar and video games
 
 ### Languages and Tools:
