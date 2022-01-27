@@ -10,5 +10,5 @@
 
 ### Languages and Tools:
 <img alt="IntelliJ IDEA" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="26px"/>
-<img alt="Python" width= "50px" src="C:\Users\zianc\OneDrive\Images\Pellicule\V1.jpg"/>
-<img alt="GitHub" width= "30px" src="C:\Users\zianc\OneDrive\Images\Pellicule\unnamed.png"
+<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img alt="Python"  width="26px" src="https://github.com/Farhsas/Image/blob/main/V1 (2).jpg?raw=true">
