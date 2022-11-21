@@ -12,6 +12,8 @@ I'm a freelance, self-taught front-end developer trying to build my own version 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+#
+
 <details>
  <summary><h3>👨‍💻 Farhsas's coding journey</h3></summary>
     I started my coding journey as a young 8 years old with my dad. He showed how to write my firsts line of code with simple Raspberry Pi projects. Since then I've always been interested in coding/development, so I started playing with some Raspberry Pi and Arduino Projects.
